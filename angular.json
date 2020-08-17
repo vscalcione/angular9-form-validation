@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular9-form-validation"
+    }
+  },
+  "defaultProject": "angular9-form-validation",
+  "cli": {
+    "analytics": "d947ca45-9d8d-4bb6-a8f9-752d73429941"
+  }
 }
