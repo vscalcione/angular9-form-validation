@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
 
+## Application Demo
+A demo of this Angular application is available on [Heroku Deploy Platform](https://www.heroku.com/#) at [https://angular9-form-validation.herokuapp.com/](https://angular9-form-validation.herokuapp.com/)
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
